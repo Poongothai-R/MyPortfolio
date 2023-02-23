@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "Eika-TodoList",
+    "image": "todolist.png",
+    "description": "A shopping list app where users can add items to the shopping list",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": true,
+    "screenshot": "todolist.jpeg",
+    "githubURL": "https://github.com/Poongothai-R/ToDoList",
+    "websiteURL": "https://eika-todolist-app.web.app/"
+  },
+
+  {
+    "id": 2,
+    "title": "Vegan Restaurant",
+    "image": "vegan_rest.png",
+    "description": "This is a multi page website which uses complex JSON files to simulate data coming from an API",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": true,
+    "screenshot": "vegan_rest.png",
+    "githubURL": "https://github.com/Poongothai-R/vegan",
+    "websiteURL": "https://vegan-restaurant-e7799.web.app/"
+  },
+
+  {
+    "id": 3,
+    "title": "Package Tracker",
+    "image": "package_tracker.png",
+    "description": "This project uses a real API call to obtain and present data from a server",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": true,
+    "screenshot": "package_tracker.png",
+    "githubURL": "https://github.com/Poongothai-R/package_tracker",
+    "websiteURL": "https://package-tracker-f9f7f.web.app/"
+  },
+
+  {
+    "id": 4,
+    "title": "BBQ Restaurant",
+    "image": "bbq_rest.png",
+    "description": "This project combines the consumer facing site of a restaurant with the admin panel",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": false,
+    "screenshot": "",
+    "githubURL": "",
+    "websiteURL": ""
+  },
+  {
+    "id": 5,
+    "title": "Learning platform",
+    "image": "learning_platform.png",
+    "description": "This project allows to create student accounts and add more full stack features",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": false,
+    "screenshot": "lms.jpg",
+    "githubURL": "",
+    "websiteURL": ""
+  },
+  {
+    "id": 6,
+    "title": "Netflix clone",
+    "image": "netflix1.png",
+    "description": "This project combines all the techniques in the Tech stack with the UI",
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
+    "isCompleted": false,
+    "screenshot": "netflix1.jpg",
+    "githubURL": "",
+    "websiteURL": ""
+  }
+]

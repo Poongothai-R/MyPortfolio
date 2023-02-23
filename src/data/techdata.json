@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "image": "react1.png"
+  },
+
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "image": "javascript.png"
+  },
+
+  {
+    "id": 3,
+    "title": "HTML",
+    "image": "html5.png"
+  },
+  {
+    "id": 4,
+    "title": "CSS",
+    "image": "css3.png"
+  },
+  {
+    "id": 5,
+    "title": "Java",
+    "image": "java.png"
+  },
+  {
+    "id": 6,
+    "title": "Sass",
+    "image": "sass.png"
+  },
+  {
+    "id": 7,
+    "title": "Git",
+    "image": "github.png"
+  },
+  {
+    "id": 8,
+    "title": "Json",
+    "image": "json.png"
+  },
+  {
+    "id": 9,
+    "title": "SQL",
+    "image": "sql.png"
+  },
+  {
+    "id": 10,
+    "title": "Figma",
+    "image": "figma-logo.png"
+  },
+  {
+    "id": 11,
+    "title": "Firebase",
+    "image": "firebase.png"
+  },
+  {
+    "id": 12,
+    "title": "TypeScript",
+    "image": "typescript.png"
+  }
+]

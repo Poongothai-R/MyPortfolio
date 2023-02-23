@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+
+:root {
+  --color-secondary: rgb(248, 225, 221);
+  --color-lightpeach: rgb(248, 241, 239);
+  --color-lightgrey: rgb(228, 226, 226);
+  --color-light-grey:  #efefe0;
+  --color-light-black: #0d0c22;
+  --space-smaller: 4px;
+  --space-small: 8px;
+  --space-medium: 16px;
+  --space-big: 24px;
+  --space-bigger: 48px;
+  --font-family: "Lora", sans-serif;
+  --font-family-text: "Quicksand", sans-serif;
+}
