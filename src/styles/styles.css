@@ -9,6 +9,8 @@
 @import "./modal.css";
 @import "./navbar.css";
 @import "./footer.css";
+@import "modalform.css";
+@import "modaltech.css";
 
 @import "./shared.css";
 @import "./variables.css";

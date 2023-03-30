@@ -4,7 +4,7 @@
   left: 0;
   height: 70px;
   width: 100%;
-  background-color: rgb(81, 85, 85);
+  background-color: rgb(81, 83, 63);
   z-index: 9999;
   display: flex;
   padding: 5px 10px;
@@ -102,12 +102,12 @@ ul {
 
 @media screen and (max-width: 550px) {
   .navbar_links {
-    padding: 1.5rem 1rem;
+    padding: 1.5rem 0.5rem;
   }
   .navbar_links li a {
     font-weight: 400;
-    line-height: 14px;
-    font-size: 14px;
+    line-height: 12px;
+    font-size: 12px;
     margin: 0 0.2rem;
   }
   ul {
@@ -115,14 +115,8 @@ ul {
     flex: 2;
     align-items: center;
     justify-content: center;
+    gap: 15px;
   }
 }
-@media screen and (max-width: 550px) {
-  .navbar_links {
-    padding: 1.5rem 0.5rem;
-  }
-  .navbar_links li a {
-    line-height: 12px;
-    font-size: 12px;
-  }
-}
+
+

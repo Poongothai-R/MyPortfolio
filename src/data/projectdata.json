@@ -40,22 +40,22 @@
     "title": "BBQ Restaurant",
     "image": "bbq_rest.png",
     "description": "This project combines the consumer facing site of a restaurant with the admin panel",
-    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
-    "isCompleted": false,
-    "screenshot": "",
-    "githubURL": "",
-    "websiteURL": ""
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase","Context API"],
+    "isCompleted": true,
+    "screenshot": "bbq_rest.png",
+    "githubURL": "https://github.com/Poongothai-R/bbq",
+    "websiteURL": "https://bbq-rest.web.app/"
   },
   {
     "id": 5,
     "title": "Learning platform",
     "image": "learning_platform.png",
     "description": "This project allows to create student accounts and add more full stack features",
-    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase"],
-    "isCompleted": false,
-    "screenshot": "lms.jpg",
-    "githubURL": "",
-    "websiteURL": ""
+    "technologies": ["React", "JavaScript", "HTML", "CSS", "Firebase","Context API","Auth"],
+    "isCompleted": true,
+    "screenshot": "learning_platform.png",
+    "githubURL": "https://github.com/Poongothai-R/Learning-Platform",
+    "websiteURL": "https://lms-application-2023.web.app/"
   },
   {
     "id": 6,

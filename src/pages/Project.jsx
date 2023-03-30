@@ -18,8 +18,9 @@ export default function Project({ setShowModal }) {
         <div className="page_left">
           <h2 className="title">Projects</h2>
           <p>
-            Here are the projects I will be working on during the Frontend
-            course at Novare Potential.
+            Some of the “Learn by Developing” projects that I have been working on in the past few months..
+            Of course there will be more, as I navigate through my learning journey.  </p>
+        <p>Watch this space, if you want to see what I do!
           </p>
         </div>
         <div className="page_right">

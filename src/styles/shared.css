@@ -51,6 +51,7 @@ button {
   margin: 50px 0px;
   padding: 0;
   font-size: 36px;
+  color: rgb(81, 83, 63);
 }
 
 @media screen and (max-width: 1050px) {
@@ -64,10 +65,7 @@ button {
   .page_left p {
     font-size: 17px;
   }
-  .about_img {
-    width: 300px;
-    height: 250px;
-  }
+
 }
 @media screen and (max-width: 900px) {
   .title {
@@ -95,9 +93,5 @@ button {
   .page_right {
     padding-right: 0;
   }
-  .about_img {
-    width: 250px;
-    height: 200px;
-    object-fit: cover;
-  }
+
 }

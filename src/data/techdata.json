@@ -2,63 +2,75 @@
   {
     "id": 1,
     "title": "React",
-    "image": "react1.png"
+    "image": "react1.png",
+    "description": "ffhjghj"
   },
 
   {
     "id": 2,
     "title": "JavaScript",
-    "image": "javascript.png"
+    "image": "javascript.png",
+    "description": "ffhjghj"
   },
 
   {
     "id": 3,
     "title": "HTML",
-    "image": "html5.png"
+    "image": "html5.png",
+    "description": "ffhjghj"
   },
   {
     "id": 4,
     "title": "CSS",
-    "image": "css3.png"
+    "image": "css3.png",
+    "description": "ffhjghj"
   },
   {
     "id": 5,
     "title": "Java",
-    "image": "java.png"
+    "image": "java.png",
+    "description": "ffhjghj"
   },
   {
     "id": 6,
     "title": "Sass",
-    "image": "sass.png"
+    "image": "sass.png",
+    "description": "ffhjghj"
   },
   {
     "id": 7,
     "title": "Git",
-    "image": "github.png"
+    "image": "github.png",
+    "description": "ffhjghj"
   },
   {
     "id": 8,
     "title": "Json",
-    "image": "json.png"
+    "image": "json1.png",
+    "description": "ffhjghj"
   },
   {
     "id": 9,
     "title": "SQL",
-    "image": "sql.png"
+    "image": "sql.png",
+    "description": "ffhjghj"
   },
   {
     "id": 10,
     "title": "Figma",
-    "image": "figma-logo.png"
+    "image": "figma-logo.png",
+    "description": "ffhjghj"
   },
   {
     "id": 11,
     "title": "Firebase",
-    "image": "firebase.png"
+    "image": "firebase.png",
+    "description": "ffhjghj"
   },
   {
     "id": 12,
     "title": "TypeScript",
-    "image": "typescript.png"
+    "image": "typescript.png",
+    "description": "ffhjghj"
   }
 ]

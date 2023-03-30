@@ -1,5 +1,5 @@
 import React from "react";
-import picture from "../assets/images/about.png";
+import picture from "../assets/images/Portfolio_photo.png";
 
 export default function AboutMe() {
   return (
@@ -8,15 +8,15 @@ export default function AboutMe() {
         <div className="page_left">
           <h2 className="title">About Me</h2>
           <p>
-            My name is Poongothai Rajesh. I am a passionate FrontEnd Developer
-            based in Stockholm, Sweden.
+            I’m a passionate Frontend Developer who loves using technology to solve real-world problems.
           </p>
           <p>
-            I have a passion for developing user-friendly, accessible and
-            responsive websites with JavaScript / ReactJS / HTML / CSS. I never
-            stop learning and want to challenge myself in every new project.
+            I always consider myself a fresher and would like to remain so with more professional experience on the back of it.
           </p>
-          <p>Scroll down to see some of my work!</p>
+          <p>
+              Are you looking for a passionate web developer, who will start everyday as her first day?
+            You are looking at the person, just a little right!!
+          </p>
         </div>
         <div className="page_right">
           <img className="about_img" src={picture} alt="Indian lady" />

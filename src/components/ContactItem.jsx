@@ -8,8 +8,9 @@ export default function ContactItem({ data }) {
     <div className="contact_item">
       <a href={link} target="_blank" rel="noreferrer">
         <img src={imageURL} className="contact_image" alt="contact icons" />
-      </a>
+
       <span>{title}</span>
+      </a>
     </div>
   );
 }

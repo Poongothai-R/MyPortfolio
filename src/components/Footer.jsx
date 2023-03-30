@@ -18,7 +18,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="copy_right">
-        <p> © 2022 @ Poongothai Rajesh</p>
+        <p> © 2023 @ Poongothai Rajesh</p>
       </div>
     </div>
   );

@@ -23,7 +23,6 @@
 
 .about_img {
   width: 300px;
-  height: 250px;
-  border-radius: 50%;
+  height: 300px;
   object-fit: cover;
 }

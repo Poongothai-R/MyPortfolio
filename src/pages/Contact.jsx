@@ -14,8 +14,9 @@ export default function Contact() {
         <div className="page_left">
           <h2 className="title">Contact</h2>
           <p>
-            Here is my contact information if you are interested in starting a
-            collaboration
+            Thank you for looking at my portfolio!
+
+            Please get in touch if you think I’m the right person ...
           </p>
         </div>
         <div className="page_right">
